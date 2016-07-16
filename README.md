@@ -1,7 +1,7 @@
 React Starter
 =====================
 
-The minimal dev environment to enable live-editing React components.
+A minimal starter kit for react based project.
 
 ### Usage
 
