@@ -9,7 +9,7 @@ For now we did not use http server to run the project because we  use this with 
 
 ```
 npm install
-npm run webpack_build_dev
+npm run webpack-build-dev
 open index.html
 ```
 

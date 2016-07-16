@@ -4,9 +4,9 @@
   "description": "A checklist application developed for NiOSH Malaysia",
   "main": "main.js",
   "scripts": {
-    "webpack_build_pro": "webpack -p",
-    "webpack_build_dev": "webpack -d",
-    "webpack_watch": "webpack -d --watch"
+    "webpack-build-pro": "webpack -p",
+    "webpack-build-dev": "webpack -d",
+    "webpack-watch": "webpack -d --watch"
   },
   "author": "Hafiz Azman (hafiz_azman@hotmail.com)",
   "license": "ISC",
