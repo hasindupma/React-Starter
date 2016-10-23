@@ -1,15 +1,15 @@
 {
   "name": "checkmate",
   "version": "0.1.0",
-  "description": "A checklist application developed for NiOSH Malaysia",
+  "description": "A checklist app",
   "main": "main.js",
   "scripts": {
     "webpack-build-pro": "webpack -p",
     "webpack-build-dev": "webpack -d",
     "webpack-watch": "webpack -d --watch"
   },
-  "author": "Hafiz Azman (hafiz_azman@hotmail.com)",
-  "license": "ISC",
+  "author": "Isuru Dilhan",
+  "license": "MIT",
   "dependencies": {
     "babel-core": "^6.10.4",
     "babel-loader": "^6.2.4",
