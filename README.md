@@ -1,7 +1,6 @@
 React Starter
 =====================
-
-A minimal starter kit for react based project.
+React is front end library developed by Facebook. It's used for handling view layer for web and mobile apps. ReactJS allows us to create reusable UI components. It is currently one of the most popular JavaScript libraries and it has strong foundation and large community behind it. This is a minimal starter kit for react based project.
 
 ### Usage
 
